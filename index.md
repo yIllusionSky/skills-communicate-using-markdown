@@ -10,3 +10,7 @@
 ```javascript
 var myVar = "hello,world!";
 ```
+
+- [ ] 第一步
+- [x] 第二部
+- [ ] 第三部
