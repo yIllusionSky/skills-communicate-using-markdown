@@ -3,3 +3,6 @@
 ###### 这是一个小测试
 
 文件加入了很多东西
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
